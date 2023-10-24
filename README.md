@@ -1,1 +1,1 @@
-# The Haunted House: Where Fright Meets Byte
+# 🎃 The Haunted House: Where Fright Meets Byte 🎃
