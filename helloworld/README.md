@@ -48,3 +48,5 @@ int main() {
     return 0;
 }
 ```
+
+All things above are complex, now go with somethings easy!
