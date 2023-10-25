@@ -58,3 +58,9 @@ Hmmm! Oh! Javascript, web developers' enemy
 console.log("Hello World");
 ```
 What a !short and !uncomplicated thing
+
+And here is Typescript, Javascript sibling:)
+
+```ts
+console.log 'Hello World'
+```
