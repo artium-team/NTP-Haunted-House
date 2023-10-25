@@ -37,7 +37,7 @@ int main()
 
 <br/>
 
-C++, another kid of C:)
+How about C++, another kid of C:)
 
 ```cpp
 #include <iostream>
