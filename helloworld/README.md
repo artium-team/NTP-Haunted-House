@@ -8,6 +8,13 @@ print("Hello, world!")
 ```
 Easy syntax, right?
 
-```
+Now, let's go with C, Python's father!
+```c
+#include <stdio.h>
 
+int main()
+{
+  printf("Hello, world!");
+  return 0;
+}
 ```
