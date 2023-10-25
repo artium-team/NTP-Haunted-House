@@ -14,7 +14,12 @@ Easy syntax, right?
 What about Python's rival, Golang
 
 ```go
-println('Hello World");
+package main
+import "fmt"
+
+func main() {
+    fmt.Println("hello world")
+}
 ```
 
 <br/>
