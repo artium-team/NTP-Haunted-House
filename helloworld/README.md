@@ -49,4 +49,12 @@ int main() {
 }
 ```
 
+<br/>
+
 All things above are complex, now go with somethings easy!
+
+Hmmm! Oh! Javascript, web developers' enemy
+```
+console.log("Hello World");
+```
+What a !short and !uncomplicated thing
