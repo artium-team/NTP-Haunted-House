@@ -4,11 +4,14 @@
 <br/>
 
 Start with Python first!
-
 ```python
 print("Hello, world!")
 ```
 Easy syntax, right?
+
+<br/>
+
+
 
 <br/>
 
@@ -20,5 +23,18 @@ int main()
 {
   printf("Hello, world!");
   return 0;
+}
+```
+
+<br/>
+
+C++, another kid of C:)
+
+```cpp
+#include <iostream>
+ 
+int main() {
+    std::cout << "Hello World";
+    return 0;
 }
 ```
