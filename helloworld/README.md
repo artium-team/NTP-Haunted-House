@@ -54,7 +54,7 @@ int main() {
 All things above are complex, now go with somethings easy!
 
 Hmmm! Oh! Javascript, web developers' enemy
-```
+```js
 console.log("Hello World");
 ```
 What a !short and !uncomplicated thing
