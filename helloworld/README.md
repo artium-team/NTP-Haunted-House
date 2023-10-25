@@ -6,3 +6,8 @@ Start with Python first!
 ```python
 print("Hello, world!")
 ```
+Easy syntax, right?
+
+```
+
+```
