@@ -11,7 +11,11 @@ Easy syntax, right?
 
 <br/>
 
+What about Python's rival, Golang
 
+```go
+println('Hello World");
+```
 
 <br/>
 
