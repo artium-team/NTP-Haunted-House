@@ -4,12 +4,12 @@
 <br/>
 
 Let's start with something old, Fortran
-
 ```fortran
 program helloworld
     print *, "Hello World"
 end program helloworld
 ```
+I created a Fortran tutorial [here](https://github.com/nguyengiabach1201/fortran-tutorial), check it if you can. It is worth a try!
 
 <br/>
 
