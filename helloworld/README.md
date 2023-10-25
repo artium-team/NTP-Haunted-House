@@ -76,3 +76,10 @@ And here is Typescript, Javascript sibling:)
 ```ts
 console.log 'Hello World'
 ```
+
+<br/>
+
+Ahh! That is all I could remember! if you know any other ways to print "Hello, world!" in any languages, email me!
+
+My email: nguyengiabach1201@gmail.com
+Make with love by Nguyễn Gia Bách, a 13 year-old student from Vietnam!
