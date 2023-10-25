@@ -3,7 +3,17 @@
 
 <br/>
 
-Start with Python first!
+Let's start with something old, Fortran
+
+```fortran
+program helloworld
+    print *, "Hello World"
+end program helloworld
+```
+
+<br/>
+
+Next, Python
 ```python
 print("Hello, world!")
 ```
