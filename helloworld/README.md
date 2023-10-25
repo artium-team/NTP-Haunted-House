@@ -21,6 +21,7 @@ func main() {
     fmt.Println("hello world")
 }
 ```
+It is compiled language, so a bit of complex
 
 <br/>
 
