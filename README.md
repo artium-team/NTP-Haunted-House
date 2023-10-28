@@ -7,4 +7,4 @@
 ![395698972_200632396401582_2185457379292250916_n](https://github.com/artium-team/NTP-Haunted-House/assets/108968549/6770ecf2-95d3-4b90-b9b5-3c9186b9c6f4)
 ![396450370_617234907056453_4229487049336716937_n](https://github.com/artium-team/NTP-Haunted-House/assets/108968549/5bc5242a-1ed6-4e5d-bafa-e33e549658d5)
 
-<img src="https://github.com/artium-team/NTP-Haunted-House/assets/108968549/a64c1c0e-7a19-46b2-8cf8-bc0f5bd45b26" width="150">
+<img src="https://github.com/artium-team/NTP-Haunted-House/assets/108968549/a64c1c0e-7a19-46b2-8cf8-bc0f5bd45b26" width="75%">
