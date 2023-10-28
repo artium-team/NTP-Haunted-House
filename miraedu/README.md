@@ -12,7 +12,7 @@ Here are some of the benefits of using Miraedu:
 - Affordable pricing: Miraedu tutoring is affordable and accessible to students of all budgets.
 - Convenience: Miraedu tutoring is convenient and accessible from anywhere in the world.
 
-### Miraedu is the perfect solution for students who need extra help in school or who want to learn a new subject. With Miraedu, students can get the personalized attention they need to succeed.
+#### Miraedu is the perfect solution for students who need extra help in school or who want to learn a new subject. With Miraedu, students can get the personalized attention they need to succeed.
 
 ## Slogan
 
