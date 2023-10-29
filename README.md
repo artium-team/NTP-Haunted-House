@@ -2,6 +2,8 @@
 
 List of projects which was submitted for The Haunted House NTP:
 
+<div align="center">
+
 | No. |              Name             |       Creator      |
 |:---:|:-----------------------------:|:------------------:|
 |  1. | Stickers                      | Ho Ngoc Han        |
@@ -10,3 +12,5 @@ List of projects which was submitted for The Haunted House NTP:
 |  4. | Ways to print "Hello, world!" | Nguyen Gia Bach    |
 |  5. | Miraedu                       | Nguyen Ngoc Thien  |
 |  6. | Prankster                     | Nguyen Trung Hieu  |
+
+</div>
