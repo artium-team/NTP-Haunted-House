@@ -1,5 +1,7 @@
 # 🎃 The Haunted House: Where Fright Meets Byte 🎃
 
+List of projects which was submitted for The Haunted House NTP:
+
 | No. |              Name             |       Creator      |
 |:---:|:-----------------------------:|:------------------:|
 |  1. | Stickers                      | Ho Ngoc Han        |
