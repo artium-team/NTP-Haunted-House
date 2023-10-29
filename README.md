@@ -1,4 +1,4 @@
-# 🎃 The Haunted House: Where Fright Meets Byte 🎃
+# <p align="center"> 🎃 The Haunted House: Where Fright Meets Byte 🎃 </p>
 
 <p align="center"> List of projects which was submitted for The Haunted House NTP: </p>
 
